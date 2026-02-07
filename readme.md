@@ -1,7 +1,7 @@
 [EN](./readme.md) 
 [JP](./readme_jp.md)
 
-## How to Grab the HLS/DASH URL from an e+ Streaming Page (You Still Can’t Watch)
+## How to Grab the HLS/DASH URL from an e+ Ticket Page (You Still Can’t Watch)
 
 Even if you don’t have a ticket, you can still get as far as **identifying the HLS stream URL**.  
 But yeah — **you cannot actually watch the video**.
